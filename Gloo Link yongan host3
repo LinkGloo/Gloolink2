@@ -1,3 +1,34 @@
+# Title: StevenBlack/hosts extension porn
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 14 August 2025 18:54:14 (UTC)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: porn
+# Number of unique domains: 75,467
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+# Project home page: https://github.com/StevenBlack/hosts1
+# Project releases: https://github.com/StevenBlack/hosts/releaseslink
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: hostsVN Adult VN
+# Last modified: 13 Aug 2025 10:20 UTC+7
+# Version: 2508131020
+# Blocked: 2.830 domains
+# Only include adult domains (Vietnamese language)
+# Homepage: https://bigdargon.github.io/hostsVN/
+# GitHub: https://github.com/bigdargon/hostsVN
+# Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/extensions/adult/hosts-VN
+#
+# =====================================================
 127.0.0.1 0.amazon.pool.ntp.org
 127.0.0.1 0.android.pool.ntp.org
 127.0.0.1 0.ar.pool.ntp.org
