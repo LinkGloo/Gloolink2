@@ -3,7 +3,7 @@
 ! Diff-Path: ../patches/2_optimized/2_optimized-s-1755139426-3600.patch
 ! Expires: 5 days (update frequency)
 ! TimeUpdated: 2025-08-14T02:39:35+00:00
-! Title: AdGuard ETOR filter (Optimized)
+! Title: AdGuard DNS filter (Optimized)
 ! Version: 2.4.3.44
 *:0000:0168:0574:7261:6365:0271:7103:636f--1$important
 *:0000:0168:0574:7261:6365:0271:7103:636f--1$network
