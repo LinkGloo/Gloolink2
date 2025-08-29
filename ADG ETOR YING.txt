@@ -1,3 +1,10 @@
+
+! 欢迎使用ETOR HOST ADG（萤火）云更包，神秘代码@kaolgloo，友情提示，尽量赶紧进群，因为云更包会不定时更新，云更URL也会随之改变，祝你稳定奔放，记得反馈哦！
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1755139426-3600.patch
+! Expires: 5 days (update frequency)
+! TimeUpdated: 2025-08-14T02:39:35+00:00
+! Title: ADG ETOR YING（云更）
+! Version: 1.0.0
 00000000000000000000000000000000logging.googleapis.com$network
 008.gg.com$network
 0197.weiycloud.cn$network
