@@ -1,3 +1,9 @@
+! Description: 欢迎使用ETOR HOST ADG云更包，神秘代码@kaolgloo，友情提示，尽量赶紧进群，因为云更包会不定时更新，云更URL也会随之改变，祝你稳定奔放，记得反馈哦！
+! Diff-Path: ../patches/2_optimized/2_optimized-s-1755139426-3600.patch
+! Expires: 5 days (update frequency)
+! TimeUpdated: 2025-08-14T02:39:35+00:00
+! Title: AdGuard ETOR filter（云更）
+! Version: 4.0.0
 ||0.android.pool.ntp.org^
 ||0.arch.pool.ntp.org^
 ||0.asia.pool.ntp.org^
