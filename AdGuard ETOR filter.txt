@@ -4,7 +4,6 @@
 ! TimeUpdated: 2025-08-14T02:39:35+00:00
 ! Title: AdGuard ETOR filter（云更）
 ! Version:4.0.0
-||0.android.pool.ntp.org^
 ||0.arch.pool.ntp.org^
 ||0.asia.pool.ntp.org^
 ||0.centos.pool.ntp.org^
