@@ -463,9 +463,7 @@
 127.0.0.1 ostorage-ocloud-cn.allawntech.com
 127.0.0.1 cgicol.amap.com
 127.0.0.1 cdn.cn.gcloudcs.com
-127.0.0.1 gitee.com
 127.0.0.1 connectivitycheck.gstatic.com
-127.0.0.1 cdn.cn.gcloudcs.com
 127.0.0.1 cloudconf-app-cn.heytapmobi.com
 127.0.0.1 dragate.dc.oppomobile.com
 127.0.0.1 dscs-prod-cq-bak.df.qq.com
@@ -492,5 +490,12 @@
 127.0.0.1 mdp-appconf-cn.heytapdownload.com
 127.0.0.1 mtalk.google.com
 127.0.0.1 tools.3g.qq.com
-127.0.0.1 www.google.com
+127.0.0.1 android.crashsight.qq.com
+127.0.0.1 ds-prod-tj-09.df.qq.com
+127.0.0.1 ds-prod-tj-09-bak.df.qq.com
+127.0.0.1 ds-prod-tj-09-bgp.df.qq.com
+127.0.0.1 xycs-prod-tj.df.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 m.sogo.com
+127.0.0.1 ulogs.umeng.com
 ||13.229.33.3\;54.169.24.193\;13.229.168.150\;54.254.118.64\;18.142.65.61\;18.139.235.76\;18.136.180.173\;52.74.60.53
