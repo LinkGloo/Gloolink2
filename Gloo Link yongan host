@@ -1,3 +1,7 @@
+127.0.0.1 13.229.33.3\;54.169.24.193\;13.229.168.150\;54.254.118.64\;18.142.65.61\;18.139.235.76\;18.136.180.173\;52.74.60.53
+127.0.0.1 weather-server.allawntech.com
+127.0.0.1 checkip.ap-southeast-1.prod.check-ip.aws.a2z.com
+127.0.0.1 www.hik-online.com
 127.0.0.1 5556mu.cn
 127.0.0.1 5587wm.cn
 127.0.0.1 9876mu.cn
@@ -455,9 +459,3 @@
 127.0.0.1 pool.ntp.org
 127.0.0.1 puffer.500638030-11-1.gcloudsvcs.com
 127.0.0.1 qosidc.gcloudsdk.com
-127.0.0.1 weather-server.allawntech.com
-127.0.0.1 13.229.33.3\;54.169.24.193\;13.229.168.150\;54.254.118.64\;18.142.65.61\;18.139.235.76\;18.136.180.173\;52.74.60.53
-127.0.0.1 weather-server.allawntech.com
-127.0.0.1 checkip.ap-southeast-1.prod.check-ip.aws.a2z.com
-www.hik-online.com
-127.0.0.1 weather-server.allawntech.com
